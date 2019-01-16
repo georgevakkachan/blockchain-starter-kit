@@ -57,7 +57,7 @@ async function pourCup(newCoffee) {
       cup.beanType = 'Ethiopian Natural Yirgacheffe';
     }
 
-
+    //testing
     if (newCoffee.timeStamp == undefined) {
       var dateStr = new Date();
       dateStr = dateStr.toString();
